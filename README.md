@@ -1,7 +1,7 @@
 # Backend Homework Assignment
 
 ## Goal
-You are tasked with optimizing two endpoints for an online game 
+You are tasked with optimizing an endpoint for an online game.
 
 ## Background
 To find the best opponent for a user, you need to find someone who:
@@ -11,9 +11,11 @@ To find the best opponent for a user, you need to find someone who:
 
 Unfortunately, the programmer who built the `get_next_opponent` method didn't know much about SQL, memory allocation, or organizing their code. Your task as a senior engineer is to help improve this codebase.
 
+Note: The algorithm and other methods used to find the best, next opponent can (and should) be changed!
+
 ## Assignment
 Your task is to accomplish the following:
-- Show how you would improve the `get_next_opponent` method.
+- Show how you would improve finding the next, best opponent.
 - Organize the codebase according to your standards.
 
 ## Don't Let the Dog Eat Your Homework
